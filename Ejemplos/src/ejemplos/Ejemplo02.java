@@ -25,6 +25,7 @@ public class Ejemplo02 {
         System.out.println(arreglo1[3]);
         System.out.println(arreglo1[4]);
         
+                 // FORMAS DE INICIALIZAR ARREGLOS
         // arreglo de tipo double
         double[] arreglo2 = new double[5];
         System.out.println(arreglo2[0]);
@@ -35,7 +36,7 @@ public class Ejemplo02 {
         
         // arreglo de tipo boleano
         boolean[] arreglo5 = new boolean[5];
-        System.out.println(arreglo5[5]);
+        System.out.println(arreglo5);
     }
 
 }
